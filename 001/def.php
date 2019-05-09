@@ -3,6 +3,6 @@
  * Created by PhpStorm.
  * User: ADMIN
  * Date: 5/9/2019
- * Time: 6:51 PM
+ * Time: 6:54 PM
  */
-echo "Hello PHP";
+echo "Xin chào PHP";
